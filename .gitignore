@@ -1,0 +1,44 @@
+# ──────────────────────────────────────────────
+# Android / Gradle
+# ──────────────────────────────────────────────
+*.iml
+.gradle/
+.kotlin/
+build/
+local.properties
+.cxx/
+captures/
+
+# ──────────────────────────────────────────────
+# IDE (Android Studio / IntelliJ)
+# ──────────────────────────────────────────────
+.idea/
+*.swp
+*~
+
+# ──────────────────────────────────────────────
+# Signing & Secrets
+# ──────────────────────────────────────────────
+*.jks
+*.keystore
+keystore.properties
+
+# ──────────────────────────────────────────────
+# OS Generated
+# ──────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ──────────────────────────────────────────────
+# Gradle Wrapper JAR (optional — many teams commit this)
+# Uncomment the next line if you want to exclude it
+# ──────────────────────────────────────────────
+# gradle/wrapper/gradle-wrapper.jar
+
+# ──────────────────────────────────────────────
+# Python (mock server)
+# ──────────────────────────────────────────────
+__pycache__/
+*.pyc
+.venv/

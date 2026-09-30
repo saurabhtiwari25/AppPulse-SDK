@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- White pulse/heartbeat line -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,54 L42,54 L46,38 L50,66 L54,46 L58,58 L62,54 L78,54
+                          L78,56 L60,56 L57,50 L54,58 L50,30 L46,70 L43,56 L30,56 Z" />
+</vector>
